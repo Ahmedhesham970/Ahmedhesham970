@@ -87,16 +87,6 @@ Here are some of the languages, frameworks, and tools I work with:
 
 ---
 
-### 🚀 My Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Ahmedhesham970/REPO_NAME_1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedhesham970&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Ahmedhesham970/REPO_NAME_2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedhesham970&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</p>
 
 ---
 
