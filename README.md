@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <h1>Hey there, I'm Ahmed Hesham! 👋</h1>
+</div>
 
-<!--
-**Ahmedhesham970/Ahmedhesham970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Backend Developer</b> with a passion for building scalable systems and a deep expertise in <b>Geospatial Intelligence (GIS)</b>.
+  <br>
+  I'm based in Egypt 🇪🇬, and I thrive at the intersection of code and cartography.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-hesham-aa6095254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ahmedesham123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://wa.me/201011782460" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I hold a **B.Sc. in Computers and Information**.
+- 🚀 My primary focus is **Node.js** for backend development, where I love architecting robust and efficient APIs.
+- 🗺️ I have a strong background in **GIS Development**, including spatial analysis, geospatial queries, and working with Esri tools.
+- 🛠️ Currently, I'm deepening my skills in **PostgreSQL/PostGIS**, **ArcGIS**, and **QGIS** to build more powerful location-aware applications.
+- 🎯 My goal is to become a go-to expert in **Backend/GIS development** and contribute to meaningful open-source projects.
+- 🌱 I believe in continuous learning and always exploring new technologies.
+
+---
+
+### 🛠️ My Tech Stack & Tools
+
+Here are some of the languages, frameworks, and tools I work with:
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <strong>Backend</strong>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Frontend</strong>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Databases</strong>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>GIS & Geospatial</strong>
+    </td>
+    <td>
+        <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=esri&logoColor=white" height="35" alt="ArcGIS" />&nbsp;
+        <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="35" alt="QGIS" />&nbsp;
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <strong>Other Tools</strong>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />&nbsp;
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 My Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Ahmedhesham970/REPO_NAME_1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedhesham970&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Ahmedhesham970/REPO_NAME_2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedhesham970&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Ahmedhesham970">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedhesham970&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Ahmedhesham970">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmedhesham970&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmedhesham970&style=flat-square&color=blueviolet" alt="Profile views"/>
+</p>
