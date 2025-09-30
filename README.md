@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <b>Backend Developer</b> with a passion for building scalable systems and a deep expertise in <b>Geospatial Intelligence (GIS)</b>.
+  <b>Backend Developer</b> with a passion for building scalable systems and a deep expertise in <b>Geospatial Infomation Systems (GIS)</b>.
   <br>
   I'm based in Egypt 🇪🇬, and I thrive at the intersection of code and cartography.
 </p>
