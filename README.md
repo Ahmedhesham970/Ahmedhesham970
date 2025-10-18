@@ -33,6 +33,20 @@
 Here are some of the languages, frameworks, and tools I work with:
 
 <table>
+    <tr>
+    <td align="center">
+      <strong>Languages</strong>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c#" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />&nbsp;
+
+      
+  </td>  
+  </tr>
   <tr>
     <td align="center" width="180">
       <strong>Backend</strong>
@@ -40,9 +54,6 @@ Here are some of the languages, frameworks, and tools I work with:
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
     </td>
   </tr>
   <tr>
@@ -57,11 +68,15 @@ Here are some of the languages, frameworks, and tools I work with:
   </tr>
   <tr>
     <td align="center">
-      <strong>Databases</strong>
+      <strong>Databases&ORM'S</strong>
     </td>
     <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-plain.svg" height="40" alt="MongoDB" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="MySQL" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sequelize/sequelize-plain.svg" height="40" alt="Sequelize" />&nbsp;
     </td>
   </tr>
   <tr>
@@ -80,7 +95,6 @@ Here are some of the languages, frameworks, and tools I work with:
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />&nbsp;
     </td>
   </tr>
 </table>
