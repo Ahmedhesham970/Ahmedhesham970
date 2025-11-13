@@ -54,6 +54,7 @@ Here are some of the languages, frameworks, and tools I work with:
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original.svg" height="40" alt="nest.js" />&nbsp;
     </td>
   </tr>
   <tr>
